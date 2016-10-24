@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">OglasiApp</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="MeniHeaderTitle">Име и Презиме</string>
+    <string name="MeniHeaderText">Емаил адреса</string>
+    <string name="MeniFirstItem">Автомобили</string>
+    <string name="MeniSecondItem">Живеалипта</string>
+    <string name="MeniThirdItem">Работа</string>
+    <string name="MeniFourthItem">Останато</string>
+    <string name="MeniFifthItem"></string>
+    <string name="MeniSecondHeader">Опции</string>
+    <string name="MeniPartTwoItemOne">Профил</string>
+    <string name="MeniPartTwoItemTwo">Зачувани огласи</string>
+    <string name="MeniPartTwoItemThree">Подесувања</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="homeFragmentText">Newest </string>
+</resources>
